@@ -1,0 +1,9 @@
+{
+"headerTitle" : " Batch Insights",
+"Abend_Rate" :"Abend Rate",
+"Pervasive_Abend_Reduction":"Pervasive Abend Reduction",
+"Adhoc_Audit":"Ad-hoc Audit",
+"Executed_Jobs":"Executed Jobs",
+"LPAR":"LPAR",
+"Date":"Date"
+}
